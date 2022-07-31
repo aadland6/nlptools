@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Annoying stuff
+*.DS_Store
+*.DS_STORE
+*.csv
+*.jsonl
+*.json
+*.xlsx
+*.xls
+
 # Distribution / packaging
 .Python
 build/
